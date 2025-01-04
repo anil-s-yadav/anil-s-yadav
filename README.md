@@ -1,14 +1,14 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
 <h1 align="center">Hi 👋, I'm Anil S Yadav</h1>
-<h3 align="center">A experienced Android developer with Flutter,JAVA and Kotlin.</h3>
+<h3 align="center">A experienced Android developer with Flutter, Java and Kotlin.</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
 
 
-- 🔭 I'm graduated from **Mumbai Univercity 2024** with <ins>**Corporate experience**</ins>
+- 🔭 I'm graduated from **Mumbai Univercity 2024** also have <ins>**Corporate experience**</ins>
   
 <!-- - I’m studing at **S.M. Shetty collage, powai, mumbai.** -->
 
