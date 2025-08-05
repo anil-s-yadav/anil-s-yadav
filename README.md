@@ -26,6 +26,7 @@
 <a href="https://instagram.com/anil.s.yadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anil.s.yadav_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anilyadav44x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anilyadav44x" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anilyadav44x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anilyadav44x" height="30" width="40" /></a>
+  <a href="https://play.google.com/store/apps/dev?id=8832237281097064209" target="blank"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="anilyadav44x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Experienced in (Languages and Tools):</h3>
