@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
 <h1 align="center">Hi 👋, I'm Anil S Yadav</h1>
-<h3 align="center">A experienced Android developer with Flutter, Java and Kotlin.</h3>
+<h3 align="center">A experienced Android and IOS Application and Web Apps (Dashboard / Admin panels) developer with Flutter, NodeJs, Firebase and more lang and tools.</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
@@ -14,9 +14,10 @@
 
 <!-- - 💬 Best way to Connect **Android, Java** -->
 
+- 📄 Know about my experiences [https://anil-portfolio-o2q9.onrender.com/](https://anil-portfolio-o2q9.onrender.com/)
 - 📫 How to reach me **anilyadav44x@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/anil-s-yadav](https://github.com/anil-s-yadav)
-- 📄 Know about my experiences [https://www.linkedin.com/in/anil-s-yadav-665938218/](https://www.linkedin.com/in/anil-s-yadav-665938218/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
